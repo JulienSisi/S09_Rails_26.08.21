@@ -29,6 +29,7 @@ gem 'faker'
 # gem 'mini_magick', '~> 4.8'
 gem "font-awesome-rails"
 gem 'bootstrap', '~> 4.3.1'
+gem 'devise'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
